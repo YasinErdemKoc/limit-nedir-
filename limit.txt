@@ -1,0 +1,24 @@
+Limit, matematikte bir fonksiyonun değerinin bir değere yaklaştığını ifade eder. Limit kavramı, her gün hayatımızda sürekli 
+olarak karşılaştığımız pek çok alanda kullanılır ve önemli bir rol oynar.
+
+Örneğin, sürüş sırasında hızımızın değiştiğini ve belirli bir hıza yaklaştığını düşünün. Limit kavramı bu yaklaşma sürecini 
+tanımlar ve sürüş sırasındaki hızımızın tam olarak ne zaman belirli bir hıza ulaştığını belirler.
+
+Aynı şekilde, fizikte limit kavramı fiziksel süreçlerin nasıl işlediğini anlamak için kullanılır. Örneğin, bir madde nin 
+sıcaklığının zamanla değiştiğini ve belirli bir sıcaklığa yaklaştığını düşünün. Limit kavramı bu yaklaşma sürecini tanımlar 
+ve maddenin tam olarak ne zaman belirli bir sıcaklığa ulaştığını belirler.
+Limit kavramı aynı zamanda mühendislik, bilgisayar bilimi ve ekonomi gibi alanlarda da kullanılır. Örneğin, bilgisayar 
+grafiklerinde limit kavramı, görsel efektlerin nasıl oluştuğunu ve görüntülerin nasıl iyileştirildiğini anlamak için kullanılır.
+Limit kavramının hayatımızdaki yeri, günlük hayatta ve pek çok farklı alanda sürekli olarak karşımıza çıkar ve
+bize birçok fenomenin nasıl işlediğini ve neden işlediğini anlamamıza yardımcı olur. Limit kavramı, hayatımızdaki pek çok
+süreçte önemli bir rol oynar ve hayatımızı daha iyi anlamamıza yardımcı olur.
+bize birçok fenomenin nasıl işlediğini ve neden işlediğini anlamamıza yardımcı olur. Limit kavramı, hayatımızdaki pek çok 
+süreçte önemli bir rol oynar ve hayatımızı daha iyi anlamamıza yardımcı olur.
+Limit kavramı aynı zamanda matematikte de çok önemlidir. Limit, matematikte fonksiyonların analizini, 
+optimizasyonunu ve türevini tanımlar. Limit kavramı, matematikteki pek çok önemli konuda, 
+örneğin integral hesaplamaları, optimization problemleri ve serilerin analizi gibi, kullanılır.
+Limit kavramının matematikteki önemi, kuramsal ve pratik açıdan da ortadadır. 
+Limit kavramı, matematikteki pek çok teoremin ve sonucun temelini oluşturur ve matematikteki pek çok önemli konuda
+kullanılır.Limit kavramının hayatımızdaki yeri ve matematikteki önemi, limit kavramının güçlü ve esnek bir araç olduğunu
+gösterir. Limit kavramı, hayatımızdaki pek çok fenomenin ve matematiksel problemlerin çözümünde kullanılır ve
+hayatımızı daha iyi anlamamıza yardımcı olur.
